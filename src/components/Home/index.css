@@ -1,0 +1,33 @@
+.unregistered-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #334155;
+}
+.register-btn {
+  background-color: #3b82f6;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  height: 30px;
+  width: 80px;
+  border-radius: 5px;
+}
+.unregistered-image {
+  width: 60%;
+  height: 400px;
+}
+.unregistered-heading {
+  margin-bottom: 0px;
+}
+
+.registered-heading {
+  color: #3b82f6;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.registered-desc {
+  font-size: 30px;
+  margin-top: 0px;
+  color: #475569;
+}
